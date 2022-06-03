@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Khairul Amin Shabudin - khairulaminshabudin@gmail.com
 
-Project Link: [Celsius](https://github.com/KhairulAminShabudin/Simple-Weather-Display)
+Project Link: [Simple Weather Display](https://github.com/KhairulAminShabudin/Simple-Weather-Display)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
